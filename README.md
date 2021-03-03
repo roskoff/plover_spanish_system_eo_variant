@@ -21,6 +21,7 @@ Incluye diccionarios por default:
 - Artículos: Todos los artículos del español.
 - Principal: Se pretende incluir aquí la mayor cantidad de entradas posibles, son todas las palabras en general que encontraremos en el español.
 - Usuario: Orientado a cargas personalizadas de cada usuario.
+
 > Observación: Durante el desarrollo utilizaré este diccionario para ir anotando nuevas entradas para desarrollar el sistema. Una vez que considere que se ajusta a las reglas que iré estableciendo, los graduaré al diccionario principal.
 
 #### Sistema
@@ -60,7 +61,7 @@ Teniendo en cuenta las vocales abiertas `a`, `e`, `o` y las cerradas `i`, `u`; s
   - `ai/ái`: aire,  paisaje, caída. Se puede combinar en el teclado con `AEU` y `A*EU`.
   - `au/áu`: aunque, causa, aún. Se puede combinar en el teclado con `AU` y `A*U`.
   - `ei/éi`: seis, aceite, alféizar. La `e` es parte de la `i` en el teclado, por lo tanto aquí la propuesta es ir con `*E` siempre que se pueda. Así: `"S*ES": "seis"`, `"A/S*E/TE": "aceite"`, `"AL/TP*E/SAR": "alféizar"`.
-  - `eu/éu`: reunir, deuda, terapéutica. `EU` ya representa la vocal `i`, por lo tanto aquí la propuesta es ir con `*E` siempre que se pueda. Así: `"RE*/TPHEUR": "reunir"`, `"TK*E/TKA": "deuda"`, `"TE/RA/P*E/TEUBG": "terapéutica"`.
+  - `eu/éu`: reunir, deuda, terapéutica. `EU` ya representa la vocal `i`, por lo tanto aquí la propuesta es ir con `*E` siempre que se pueda. Así: `"R*E/TPHEUR": "reunir"`, `"TK*E/TKA": "deuda"`, `"TE/RA/P*E/TEUBG": "terapéutica"`.
   - `oi/ói`: coincidir, moisés, oído. Se puede combinar en el teclado con `OEU`y `O*EU`.
   - `ou/óu`: aparentemente no hay ocurrencias de esta combinación o tal vez sean palabras muy raras. La combinación la usaremos invertida para otro grupo de diptongos más común: `uo/uó`.
 - Vocal cerrada átona + vocal abierta tónica
@@ -101,7 +102,7 @@ Teniendo en cuenta las vocales abiertas `a`, `e`, `o` y las cerradas `i`, `u`; s
 1. Abrir Plover
 2. Ir al Plugin Manager
 3. Elegir `plover-spanish-system-eo-variant` de la lista
-4. Clickj en `Install/Update`
+4. Click en `Install/Update`
 5. Reiniciar Plover
 
 > Requiere Plover versión 4.0.0 o superior.
