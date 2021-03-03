@@ -14,6 +14,17 @@ Utiliza distribución americana de teclas para estenotipia: `#STKPWHRAO*EUFRPBLG
 
 > Imagen tomada de [Art of chording](https://www.artofchording.com/introduction/how-steno-works.html#chords).
 
+#### Alfabeto
+
+Se puede deletrear el alfabeto con las siguientes combinaciones:
+
+|||||||||
+|---|---|---|---|---|---|---|---|
+|`A*: a`|`PW*: b`|`KR*: c`|`TK*: d`|`*E: e`|`TP*: f`|`TKPW: g`|`H*: h`|
+|`*EU: i`|`SKWR*: j`|`K*: k`|`HR*: l`|`PH*: m`|`TPH*: n`|`TPWH*: ñ`|`O*: o`|
+|`P*: p`|`KW*: q`|`R*: r`|`S*: s`|`T*: t`|`*U: u`|`SR*: v`|`W*: w`|
+|`KP*: x`|`KWR*: y`|`STKPW*: z`|`HA*: á`|`H*E: é`|`H*EU: í`|`HO*: ó`|`H*U: ú`|
+
 #### Diccionarios
 
 Incluye diccionarios por default:
