@@ -77,7 +77,7 @@ Teniendo en cuenta las vocales abiertas `a`, `e`, `o` y las cerradas `i`, `u`; s
   - `ou/óu`: aparentemente no hay ocurrencias de esta combinación o tal vez sean palabras muy raras. La combinación la usaremos invertida para otro grupo de diptongos más común: `uo/uó`.
 - Vocal cerrada átona + vocal abierta tónica
   - `ia/iá`: social, familia, diálogo. Se propone utilizar sólo la vocal tónica combinada con `*` en el acorde, así: `"SO/SA*L": "social"`, `"TPA/PHEU/HRA*": "familia"`, `"TKA*/HRO/TKPWO": "diálogo"`.
-  - `ie/ié`: bien, tiempo, recién. Se propone usar de vuelta `*E`, así: `"PW*EPB": "bien"`, `"T*EPL/PO": "tiempo"`, `"RE/S*EPB": "recién"`.
+  - `ie/ié`: tiene, tiempo, recién. Se propone usar de vuelta `*E`, así: `"T*E/TPHE": "tiene"`, `"T*EPL/PO": "tiempo"`, `"RE/S*EPB": "recién"`.
   - `io/ió`: nacional, espacio, relación. Se propone aquí `O*`, así: `"TPHA/SO*/TPHAL": "nacional"`, `"ES/PA/SO*": "espacio"`, `"RE/HRA/SO*PB": "relación"`.
   - `ua/uá`: situación, actual, zaguán. Se propone usar `A*`, así: `"SEU/TA*/SO*PB": "situación"`, `"ABG/TA*L": "actual"`, `"SA/TKPWA*PB": "zaguán"`.
   - `ue/ué`: pues, nuevo, huésped. Se propone usar de vuelta `*E`, así: `"P*ES": "pues"`, `"TPH*E/SRO": "nuevo"`, `"H*ES/PED": "huésped"`.
