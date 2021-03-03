@@ -1,5 +1,7 @@
 ## [WIP] Plugin para Plover - Sistema Español (variante eo)
 
+[![pypi](https://img.shields.io/pypi/v/plover_spanish_system_eo_variant.svg)](https://pypi.org/project/plover-spanish-system-eo-variant/) [![pypi](https://img.shields.io/pypi/dm/plover_spanish_system_eo_variant.svg)](https://pypi.org/project/plover-spanish-system-eo-variant/)
+
 Este plugin es para [Plover](https://www.openstenoproject.org/plover/), herramienta que nos permite practicar estenotipia sin necesidad de tener un hardware especializado.
 
 La implementación Sistema Español (variante eo) es una aproximación para utilizar la distribución del teclado americano aplicado a nuestro idioma.
