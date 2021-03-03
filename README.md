@@ -99,6 +99,12 @@ Teniendo en cuenta las vocales abiertas `a`, `e`, `o` y las cerradas `i`, `u`; s
 
 - La letra `q (KW)`: esta letra no la utilizaríamos para las sílabas, en su reemplazo utilizamos directamente la `K`. Ej.: `"K*E": "qué"`.
 
+- La letra `ch` se formarán con `KH`. Ej.: `"TKEU/KHO": "dicho"`.
+
+- La letra `r` fuerte (`rr`): para los casos en los que la sílaba (no inicial) que lleve `rr` y se necesite desambiguar, se preferirá la combinación `WR`, aprovechando que el sonido es aproximado y que no existen sílabas que empiecen con `wr` en español. Así: `"PE/WRA": "perra"`, `"PE/RA": "pera"`, `"KO/WRAL": "corral"`, `"KO/RAL": "coral"`.
+
+- Las letras `g` y `j`: la `g` suena gutural suave si le preceden las vocales `a`, `o`, `u`. Para las sílabas con `e` e `i`, se entrepone una `u`. Así tenemos `ga`, `gue`, `gui`, `go`, `gu`. Todas estas ocurrencias deberían reflejarse como `TKPWA`, `TKPWE`, `TKPWEU`, `TKPWO` y `TKPWU` respectivamente. La `j` tiene un sonido gutural fuerte con todas las vocales: `ja`, `je`, `ji`, `jo`, `ju`. Esto coincide con la pronunciación de `ge` y `gi`. Todos estos casos deberían ir como `SKWRA`, `SKWRE`, `SKWREU`, `SKWRO`, `SKWRU`. Ej.: `"TKPWE/WRA": "guerra"`, `"SKWREPBT": "gente"`, `"SKWRE/TPE": "jefe"`, `"TKPWEU/TA/WRA": "guitarra"`, `"SKWREU/RA/SOL": "girasol"`, `"SKWREU/RA/TPA": "jirafa"`.
+
 - Abreviaciones comunes que podrían aparecer:
   - Usar `-T` para comprimir sílabas si la palabra termina en `te`. Ej.: `"TKU/RAPBT": "durante"`.
   - Usar `-D` para comprimir sílabas si la palabra termina en `de`. Ej.: `"SRERD": "verde"`.
