@@ -30,7 +30,7 @@ Este sistema será predominantemente silábico. Por el momento, lo más apropiad
 
 Por ejemplo, `"TK": "de"`, `"K": "que"`, `"P": "para"`, `"S": "es"` se encuentran entre las 15 palabras más frecuentes en el listado.
 
-El `*` se utilizará como desambiguador principal en la mayoría de los casos, por ejemplo para representar acento diacrítico: por un lado `"SEU": "si"`, y por otro lado `"S*EU": "sí"`, o bien, para diferenciar la `n` de la `ñ`. En otros casos, como el de los *Participios* se propone sumar `H` como desambiguador complementario, aprovechando su carácter de letra muda.
+El `*` se utilizará como desambiguador principal en la mayoría de los casos, por ejemplo para representar acento diacrítico: por un lado `"SEU": "si"`, y por otro lado `"S*EU": "sí"`. En otros casos, como el de los *participios* o *vocales acentuadas*, se propone sumar `H` como desambiguador complementario, aprovechando su carácter de letra muda.
 
 #### Plural de los sustantivos
 
@@ -83,8 +83,6 @@ Teniendo en cuenta las vocales abiertas `a`, `e`, `o` y las cerradas `i`, `u`; s
 #### Casos especiales
 
 - La letra `ll`: la idea es utilizar el sonido casi equivalente de la `y`, así: `"E/KWRA": "ella"`.
-
-- La letra "ñ": en este caso podemos ensayar una combinación de `TPH*` (`n` + `*`) para desambiguar, o bien, intentar leer las sílabas como si fueran diptongos: `ña -> nia`, `ñe -> nie`, `ñi` (sin equivalente pero se puede usar `TPH*`), `ño -> nio`, `ñu -> niu`.
 
 - La letra `s` intermedia: se toma la regla de la teoría de Plover que dice que podemos usar `-F` como si fuera una `S` en la parte intermedia de la palabra, por ejemplo: `"TKEFD": "desde"`.
 
