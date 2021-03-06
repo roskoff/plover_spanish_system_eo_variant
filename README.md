@@ -1,6 +1,6 @@
 ## [WIP] Plugin para Plover - Sistema Español (variante eo)
 
-[![pypi](https://img.shields.io/pypi/v/plover_spanish_system_eo_variant.svg)](https://pypi.org/project/plover-spanish-system-eo-variant/) [![pypi](https://img.shields.io/pypi/dm/plover_spanish_system_eo_variant.svg)](https://pypi.org/project/plover-spanish-system-eo-variant/)
+[![pypi](https://img.shields.io/pypi/v/plover_spanish_system_eo_variant.svg)](https://pypi.org/project/plover-spanish-system-eo-variant/) [![pypi](https://img.shields.io/pypi/dm/plover_spanish_system_eo_variant.svg)](https://pypi.org/project/plover-spanish-system-eo-variant/) [![paypal](https://img.shields.io/badge/-Buy%20me%20a%20coffee%20%3AD-informational?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=36R4CKEMBJMQE)
 
 Este plugin es para [Plover](https://www.openstenoproject.org/plover/), herramienta que nos permite practicar estenotipia sin necesidad de tener un hardware especializado.
 
